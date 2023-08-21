@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2023-08-21T12:39:11.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8fzewpAquCNIc1HhOYz-" version="21.6.6" type="github">
+  <diagram name="Pagina-1" id="fzQo1eca5v0xktOc1s7V">
+    <mxGraphModel dx="1434" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SKQudAhEHdcFg9ZZKbUm-11" value="Est" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="50" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKQudAhEHdcFg9ZZKbUm-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="40" y="90" width="760" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="SKQudAhEHdcFg9ZZKbUm-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="60" y="100" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKQudAhEHdcFg9ZZKbUm-15" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Telefono&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="55" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SKQudAhEHdcFg9ZZKbUm-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="190" y="180" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SKQudAhEHdcFg9ZZKbUm-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Acqua&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="177.5" y="220" width="75" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
