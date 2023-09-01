@@ -1,14 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T14:10:10.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bczXW7m5fcaAr6u27kuP" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T14:25:38.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="yYQnol9kTuAUNTW2kwZq" version="21.7.2" type="github">
   <diagram name="Pagina-1" id="xrm3c96OpTf_Y7rTwhOL">
     <mxGraphModel dx="1050" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sZtBTsXuCv8OnRfloOEZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;imageWidth=24;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="100" height="270" as="geometry" />
+          <mxGeometry x="80" y="130" width="100" height="270" as="geometry" />
         </mxCell>
         <mxCell id="sZtBTsXuCv8OnRfloOEZ-2" value="270 x 104" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="40" width="100" height="30" as="geometry" />
+          <mxGeometry x="80" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sZtBTsXuCv8OnRfloOEZ-3" value="Vaso visto dall&#39;alto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sZtBTsXuCv8OnRfloOEZ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="40" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="sZtBTsXuCv8OnRfloOEZ-5" value="Gazebo visto orizzontalmente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sZtBTsXuCv8OnRfloOEZ-6" value="h = 240cm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
